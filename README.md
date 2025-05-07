@@ -1,6 +1,6 @@
 <h1>Spark Streaming and Global Market Analysis</h1>
 
-This repository hosts the code for Big Data Analytics Course assignment.
+This repository hosts the code for a Big Data Analytics Course assignment.
 
 The goal of this assignment is to simulate streaming of market data & prices. This is done through using the Yahoo Finance (yfinance) and Spark Streaming (pyspark) libraries.
 

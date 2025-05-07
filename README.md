@@ -1,6 +1,6 @@
 <h1>Spark Streaming and Global Market Analysis</h1>
 
-This repository hosts the code for Assignment 3 for ITML606 Big Data Analytics Course at the University of Bahrain.
+This repository hosts the code for a Big Data Analytics Course.
 
 The goal of this assignment is to simulate streaming of market data & prices. This is done through using the Yahoo Finance (yfinance) and Spark Streaming (pyspark) libraries.
 
